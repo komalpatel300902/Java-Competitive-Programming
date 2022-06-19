@@ -17,5 +17,14 @@
 ## Problems to Solve
 <details>
 <summary>Question 1</summary>
-
+WAP to print following pattern. User will enter number of rows. If user enter <code>row</code> = 7 then <code>output</code> is given. <a href = "https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/Pattern/HalfTriangleNumberPattern.java">[Solution]<a>
+<pre>
+1
+22
+333
+4444
+55555
+666666
+7777777
+</pre>
 </details>

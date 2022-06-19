@@ -2,7 +2,8 @@
 
 ## Index
 - [Practice Problem](#practice-problem)
-- [Problems to Solve](#problems-to-solve)
+- [General Problems](#general-problems)
+- [Problems to Solve](#pattern-problems-to-solve)
 
 ## Practice Problem
 | Problem | Source | Solution |
@@ -14,7 +15,26 @@
 |[Area Of Parallalogram](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true) | HackerRank| [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/AreaOfParallalogram.java)|
 |[String Formating](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/StringFormating.java)
 
-## Problems to Solve
+
+## General Problems
+<details>
+<summary>Question 1</summary>
+WAP to find factorial of given number n. If user enter <code>number</code> = 5 then output is given.<a href = "https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/Factorial.java" >[Solution]</a>
+<pre>120</pre>
+</details>
+<details>
+<summary>Question 2</summary>
+WAP to find Fabonacii Series of given number n. If user enter <code>number</code> = 9 then output is given.<a href = "https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/FabonaciiSeries.java" >[Solution]</a>
+<pre>1 1 2 3 5 8 13 21 34 </pre>
+</details>
+<details>
+<summary>Question 3</summary>
+WAP to find sum of first n natural number. If user enter <code>number</code> = 9 then output is given.<a href = "https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/SumOfNInteger.java" >[Solution]</a>
+<pre>45 </pre>
+</details>
+
+
+## Pattern Problems to Solve
 
 <details>
 <summary>Question 1</summary>

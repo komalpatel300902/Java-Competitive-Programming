@@ -1,9 +1,13 @@
+package Pattern;
+/*
 
-// *----
-// **---
-// ***--
-// ****-
-// *****
+*----
+**---
+***--
+****-
+*****
+
+*/
 import java.util.Scanner;
 public class StarDashPattern {
     // Time Complexity : O(n^2)

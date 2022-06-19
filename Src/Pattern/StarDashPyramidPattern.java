@@ -1,3 +1,4 @@
+package Pattern;
 /*
 n = 2   
 -*

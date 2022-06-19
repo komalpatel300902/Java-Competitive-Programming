@@ -2,6 +2,7 @@
 
 ## Index
 - [Practice Problem](#practice-problem)
+- [Problems to Solve](#problems-to-solve)
 
 ## Practice Problem
 | Problem | Source | Solution |
@@ -12,3 +13,9 @@
 |[Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/CurrencyConverter.java)|
 |[Area Of Parallalogram](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true) | HackerRank| [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/AreaOfParallalogram.java)|
 |[String Formating](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/StringFormating.java)
+
+## Problems to Solve
+<details>
+<summary>Question 1</summary>
+
+</details>

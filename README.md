@@ -33,7 +33,6 @@ WAP to print following pattern. User will enter number of rows. If user enter <c
 <summary>Question 2</summary>
 WAP to print following pattern. User will enter number of rows. If user enter <code>row</code> = 5 then <code>output</code> is given. <a href = "https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/Pattern/HalfTrianglePattern.java">[Solution]</a>
 <pre>
-
          *
        * *
      * * *

@@ -13,7 +13,8 @@
 |[Sub-string In Java](https://www.hackerrank.com/challenges/java-substring/problem?isFullScreen=true) | HacekrRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/SubStringInJava.java)|
 |[Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/CurrencyConverter.java)|
 |[Area Of Parallalogram](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true) | HackerRank| [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/AreaOfParallalogram.java)|
-|[String Formating](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/StringFormating.java)
+|[String Formating](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/StringFormating.java)|
+|[Valid Username](https://www.hackerrank.com/challenges/valid-username-checker/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/UsernameValidator.java)
 
 
 ## General Problems

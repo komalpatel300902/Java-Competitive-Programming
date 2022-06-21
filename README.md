@@ -6,6 +6,9 @@
 - [Problems to Solve](#pattern-problems-to-solve)
 
 ## Practice Problem
+
+Warning : The Solution given below are mine if you copy and paste it as Your Answer your account might get banned.
+
 | Problem | Source | Solution |
 |---------|--------|----------|
 |[Java Loop](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/PracticeProblemJavaLoop.java)|
@@ -14,7 +17,11 @@
 |[Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/CurrencyConverter.java)|
 |[Area Of Parallalogram](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true) | HackerRank| [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/AreaOfParallalogram.java)|
 |[String Formating](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/StringFormating.java)|
-|[Valid Username](https://www.hackerrank.com/challenges/valid-username-checker/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/UsernameValidator.java)
+|[Valid Username](https://www.hackerrank.com/challenges/valid-username-checker/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/UsernameValidator.java)|
+|[Java String Comparison](https://www.hackerrank.com/challenges/java-string-compare/problem?isFullScreen=true) | HackerRank|[Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/StringComparison.java)|
+|[Pallindrome String](https://www.hackerrank.com/challenges/java-string-reverse/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/PallindromeString.java)|
+|[Big Number](https://www.hackerrank.com/challenges/java-biginteger/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/BigNumbers.java)|
+|[List Traversal](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/ListTraversal.java)|
 
 
 ## General Problems

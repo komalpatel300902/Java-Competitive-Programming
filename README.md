@@ -22,6 +22,10 @@
 |[Pallindrome String](https://www.hackerrank.com/challenges/java-string-reverse/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/PallindromeString.java)|
 |[Big Number](https://www.hackerrank.com/challenges/java-biginteger/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/BigNumbers.java)|
 |[List Traversal](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/ListTraversal.java)|
+|[Java ArrayList](https://www.hackerrank.com/challenges/java-arraylist/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/JavaArrayList.java)|
+|[Java List](https://www.hackerrank.com/challenges/java-list/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/JavaList.java)|
+|[Java Generics](https://www.hackerrank.com/challenges/java-generics/problem) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/GenericsInJava.java)|
+| [Java HashSet](https://www.hackerrank.com/challenges/java-hashset/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/HashSetInJava.java)|
 
 
 ## General Problems

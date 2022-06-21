@@ -7,7 +7,7 @@
 
 ## Practice Problem
 
-Warning : The Solution given below are mine if you copy and paste it as Your Answer your account might get banned.
+#### Warning : The Solution given below are mine if you copy and paste it as Your Answer your account might get banned.
 
 | Problem | Source | Solution |
 |---------|--------|----------|

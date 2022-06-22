@@ -3,7 +3,7 @@
 ## Index
 - [Practice Problem](#practice-problem)
 - [General Problems](#general-problems)
-- [Problems to Solve](#pattern-problems-to-solve)
+- [Pattern Problems to Solve](#pattern-problems-to-solve)
 
 ## Practice Problem
 

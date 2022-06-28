@@ -27,7 +27,8 @@
 |[Java Generics](https://www.hackerrank.com/challenges/java-generics/problem) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/GenericsInJava.java)|
 | [Java HashSet](https://www.hackerrank.com/challenges/java-hashset/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/HashSetInJava.java)|
 |[Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem?isFullScreen=true)| HackerRank|[Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/AbstractClass.java)|
-|[BigInteger isProbablePrime Function](https://www.hackerrank.com/challenges/java-primality-test/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/BigIntegerPrimeTester.java)
+|[BigInteger isProbablePrime Function](https://www.hackerrank.com/challenges/java-primality-test/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/BigIntegerPrimeTester.java)|
+|[Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem?isFullScreen=true)| HackerRank| [Solution](https://github.com/komalpatel300902/Java-Competitive-Programming/blob/master/Src/Anagrams.java)|
 
 ## General Problems
 <details>
